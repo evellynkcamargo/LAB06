@@ -1,0 +1,5 @@
+C:/Users/evell/Documents/SMC25/LAB06/LED/CMakeFiles/LED.dir
+C:/Users/evell/Documents/SMC25/LAB06/LED/CMakeFiles/edit_cache.dir
+C:/Users/evell/Documents/SMC25/LAB06/LED/CMakeFiles/rebuild_cache.dir
+C:/Users/evell/Documents/SMC25/LAB06/LED/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/evell/Documents/SMC25/LAB06/LED/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
